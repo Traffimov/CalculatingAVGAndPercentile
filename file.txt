@@ -1,2 +1,0 @@
-Average flight time from Vladivostok to Tel-Aviv - 872.0
-90th percentile of flight time between Vladivostok and Tel-Aviv - 820.0
